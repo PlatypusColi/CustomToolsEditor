@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/InspectorEditingScene.unity
+- path: Assets/ExtendingUnityEditor/Scenes/InspectorEditingScene.unity
   isLoaded: 1
   isActive: 1
